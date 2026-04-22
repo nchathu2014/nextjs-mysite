@@ -10,7 +10,7 @@ export default function Home() {
           Welcome to MySite
         </h1>
         <p className="text-wrap mt-5 text-xl text-gray-600 max-2-2xl mx-auto mb-8">
-          This is a simple, cean website built with <Link href={'https://nextjs.org/'} className="text-blue-500 underline">Next.JS</Link> and  <Link href={'https://tailwindcss.com/'} className="text-blue-500 underline">TailwindCSS</Link>. By
+          This is a simple, clean website built with <Link href={'https://nextjs.org/'} className="text-blue-500 underline">Next.JS</Link> and  <Link href={'https://tailwindcss.com/'} className="text-blue-500 underline">TailwindCSS</Link>. By
           building this beatiful website, I'v gained the following skills.
         </p>
         <div className="text-left bg-amber-200 p-5 rounded-xl shadow-lg w-max m-auto">
